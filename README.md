@@ -16,5 +16,5 @@ The structure of this anonymous repo is below:
 N.B.: Reproducibility package contains:
 - ReadMe.txt
 - source code (sourceFiles.zip)
-- environment (@Keras.zip) with Buggy code and correct code demonstrated as motivation example (motivExampleBug.py, motivExampleCorrect.py) with Instructions.txt
+- environment (@Keras.zip) with Buggy code and correct code demonstrated as motivation example with Instructions.txt
 - Scripts to execute all the codes in the respective benchmarks (scripts.zip)
