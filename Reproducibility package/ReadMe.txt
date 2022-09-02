@@ -2,7 +2,7 @@
 The reproducibility package contains:
 ------------------------------------
 1) DlContract source code (sourceFiles.zip)
-3) @Keras environment (@Keras.zip) with Buggy code and correct code demonstrated as motivation example (motivExampleBug.py, motivExampleCorrect.py) with Instructions.txt
+3) @Keras environment (@Keras.zip) with Buggy code and correct code demonstrated as motivation example with Instructions.txt
 3) URL of the Benchmarks 
 4) Scripts to execute all the codes in the respective benchmarks (scripts.zip)
 
